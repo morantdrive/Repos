@@ -20,3 +20,4 @@ If (!($rmContext.Environment))
         Login-AzureRmAccount
     }
 #
+#
